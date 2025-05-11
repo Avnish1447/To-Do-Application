@@ -30,8 +30,7 @@ Ensure you have the following installed:
 * Python 3.6 or higher
 * Required Python packages:
 
-  * `customtkinter`([Hatica][2])
-
+  * `customtkinter`
 ### Installation
 
 1. **Clone the Repository**:
@@ -89,7 +88,7 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch: `git checkout -b feature-name`.
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.([Make a README][3])
+5. Open a pull request.
 
 ---
 
