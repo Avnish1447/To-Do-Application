@@ -4,7 +4,7 @@ customtkinter==5.2.2
 
 **Note**:
 
-* The `customtkinter` library is specified with its latest stable version as of January 10, 2024. ([PyPI][1])
+* The `customtkinter` library is specified with its latest stable version as of January 10, 2024.
 
 * The standard `tkinter` module is included with Python's standard library and does not need to be listed in `requirements.txt`.&#x20;
 
