@@ -1,0 +1,20 @@
+```
+customtkinter==5.2.2
+```
+
+**Note**:
+
+* The `customtkinter` library is specified with its latest stable version as of January 10, 2024. ([PyPI][1])
+
+* The standard `tkinter` module is included with Python's standard library and does not need to be listed in `requirements.txt`.&#x20;
+
+**Installation Instructions**:
+
+To install the required dependencies, run the following command in your terminal:
+
+```
+pip install -r requirements.txt
+```
+
+This will ensure that the necessary packages are installed for your application to run smoothly.
+https://pypi.org/project/customtkinter/?utm_source=chatgpt.com "customtkinter - PyPI"
