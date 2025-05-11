@@ -95,6 +95,6 @@ Contributions are welcome! Please follow these steps:
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [your.email@example.com](mailto:avnishagrawal1447@gmail.com).
+For any inquiries or feedback, please contact [E-Mail 📩](mailto:avnishagrawal1447@gmail.com).
 
 ---
