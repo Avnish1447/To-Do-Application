@@ -11,13 +11,13 @@ A user-friendly desktop application built with Python's Tkinter and CustomTkinte
 * **Delete Tasks**: Remove tasks that are no longer needed.
 * **Mark as Completed**: Indicate tasks that have been finished.
 * **Persistent Storage**: Tasks are saved in a `tasks.json` file for future sessions.
-* **Error Handling**: Gracefully manages errors, such as attempting to delete non-existent tasks.([YouTube][1])
+* **Error Handling**: Gracefully manages errors, such as attempting to delete non-existent tasks.
 
 ---
 
 ## 🖼️ Preview
 
-*Include screenshots or a GIF demonstrating the application's functionality here.*
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/41c0b46b-5296-4833-8b00-03b01a51c840" />
 
 ---
 
@@ -37,7 +37,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Avnish1447/todo-list-app.git
    cd todo-list-app
    ```
 
@@ -78,8 +78,6 @@ todo-list-app/
 ├── README.md         # Project documentation
 └── requirements.txt  # List of dependencies
 ```
-
-
 
 ---
 
